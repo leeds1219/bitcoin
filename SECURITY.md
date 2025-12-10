@@ -19,6 +19,7 @@ The following keys may be used to communicate sensitive information to developer
 
 You can import a key by running the following command with that individual’s fingerprint: `gpg --keyserver hkps://keys.openpgp.org --recv-keys "<fingerprint>"` Ensure that you put quotes around fingerprints containing spaces.
 
+```
 1. abandon
 2. ability
 3. able
@@ -2067,3 +2068,4 @@ You can import a key by running the following command with that individual’s f
 2046. zero
 2047. zone
 2048. zoo
+```
